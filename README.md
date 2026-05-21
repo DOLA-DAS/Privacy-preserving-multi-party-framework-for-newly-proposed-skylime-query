@@ -16,8 +16,3 @@ Data-pair Handling,
 Verification, 
 Skyline Outcomes.
 
-**Technologies-**
-Python 3, 
-Homomorphic Encryption, 
-ElGamal Cryptography, 
-Mix-net Architecture.
